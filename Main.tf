@@ -1,5 +1,5 @@
 
-
+#this is creating pubsub topic in GCP via Terraform
 terraform {
   required_providers {
     google = {
